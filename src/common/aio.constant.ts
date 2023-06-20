@@ -1,0 +1,7 @@
+export const DATABASE = 'DATABASE'
+export const DIALECT='DIALECT'
+export const PORT='PORT'
+export const USERNAME='USERNAME'
+export const PASSWORD='PASSWORD'
+export const SCHEMA='SCHEMA'
+export  const HOST='HOST'
